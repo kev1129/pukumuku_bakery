@@ -1,10 +1,14 @@
 # PUKUMUKU 
 
-A charming bakery in Tokyo, warmly loved by the locals.
+Web site for a charming bakery in Tokyo, warmly loved by the locals.
 
 **[Live Demo](https://pankouboupukumuku.com/)**
-**[Reference video on Youtube](https://youtu.be/kd0O-hnHnyQ?si=yg5GGfDmiqqzIXuP)**
-**[instagram](https://www.instagram.com/pankouboupukumuku/)**
+
+## Reference of PUKUMUKU
+
+- **[instagram](https://www.instagram.com/pankouboupukumuku/)**
+- **[Video on Youtube](https://youtu.be/kd0O-hnHnyQ?si=yg5GGfDmiqqzIXuP)**
+
 
 
 ## Tech Stack
